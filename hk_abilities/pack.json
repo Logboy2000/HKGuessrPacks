@@ -1,0 +1,132 @@
+{
+  "name": "All Abilities",
+  "gameModeId": "hk_abilities",
+  "author": "Fedora & Valéry Kesler",
+  "thumbnail": "thumbnail.png",
+  "locations": [
+    {
+      "x": 2051,
+      "y": 841,
+      "difficulty": "2.1",
+      "image": "images/loc-2-Icon_HK_Vengeful_Spirit.png"
+    },
+    {
+      "x": 821,
+      "y": 734,
+      "difficulty": "2.4",
+      "image": "images/loc-3-Icon_HK_Mothwing_Cloak.png"
+    },
+    {
+      "x": 1820,
+      "y": 1647,
+      "difficulty": "3.9",
+      "image": "images/loc-4-Icon_HK_Mantis_Claw.png"
+    },
+    {
+      "x": 2368,
+      "y": 2759,
+      "difficulty": "5.4",
+      "image": "images/loc-7-Icon_HK_Abyss_Shriek.png"
+    },
+    {
+      "x": 3646,
+      "y": 2741,
+      "difficulty": "3.8",
+      "image": "images/loc-8-Icon_HK_Shade_Cloak.png"
+    },
+    {
+      "x": 4292,
+      "y": 1840,
+      "difficulty": 5,
+      "image": "images/loc-9-Icon_HK_Cyclone_Slash.png"
+    },
+    {
+      "x": 3414,
+      "y": 816,
+      "difficulty": 5,
+      "image": "images/loc-7-loc_12_Icon_HK_Dreamgate_Art.png"
+    },
+    {
+      "x": 3313,
+      "y": 754,
+      "difficulty": 5,
+      "image": "images/loc-14-Icon_HK_Descending_Dark.png"
+    },
+    {
+      "x": 2654,
+      "y": 1260,
+      "difficulty": 5,
+      "image": "images/loc-15-Icon_HK_Desolate_Dive.png"
+    },
+    {
+      "x": 1407,
+      "y": 390,
+      "difficulty": 5,
+      "image": "images/loc-17-Icon_HK_Dash_Slash.png"
+    },
+    {
+      "x": 468,
+      "y": 948,
+      "difficulty": 5,
+      "image": "images/loc-18-Icon_HK_Great_Slash.png"
+    },
+    {
+      "x": 1091,
+      "y": 1190,
+      "difficulty": 5,
+      "image": "images/loc-19-Icon_HK_Howling_Wraiths.png"
+    },
+    {
+      "x": 3374,
+      "y": 1953,
+      "difficulty": 5,
+      "image": "images/loc-20-Icon_HK_Isma_s_Tear.png"
+    },
+    {
+      "x": 2692,
+      "y": 1336,
+      "difficulty": 5,
+      "image": "images/loc-21-Icon_HK_Shade_Soul.png"
+    },
+    {
+      "x": 1865,
+      "y": 2259,
+      "difficulty": 5,
+      "image": "images/loc-5-Icon_HK_Monarch_Wings.png"
+    },
+    {
+      "x": 3326,
+      "y": 943,
+      "difficulty": 5,
+      "image": "images/loc-11-Icon_HK_Dream_Nail.png"
+    },
+    {
+      "x": 3414,
+      "y": 641,
+      "difficulty": 5,
+      "image": "images/loc-16-Icon_HK_Crystal_Heart.png"
+    },
+    {
+      "x": 3413,
+      "y": 806,
+      "difficulty": 5,
+      "image": "images/loc-12-Icon_HK_Awoken_Dream_Nail.png"
+    },
+    {
+      "x": 2236,
+      "y": 704,
+      "difficulty": 5,
+      "image": "images/loc-22-620px_Icon_HK_World_Sense_Art.png"
+    },
+    {
+      "x": 1543,
+      "y": 633,
+      "difficulty": "8.9",
+      "image": "images/loc-1-Icon_HK_Focus.png"
+    }
+  ],
+  "map": {
+    "useCustomMap": false,
+    "defaultMap": "hallownest"
+  }
+}
