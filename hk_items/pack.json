@@ -1,0 +1,90 @@
+{
+  "name": "All Items",
+  "gameModeId": "hk_items",
+  "author": "Fedora",
+  "thumbnail": thumbnail.png,
+  "locations": [
+    {
+      "x": 1984,
+      "y": 610,
+      "difficulty": 5,
+      "image": "images/loc-1-Elegant_Key.png"
+    },
+    {
+      "x": 1345,
+      "y": 1476,
+      "difficulty": "7",
+      "image": "images/loc-2-Love_Key.png"
+    },
+    {
+      "x": 2810,
+      "y": 487,
+      "difficulty": 5,
+      "image": "images/loc-3-137px_Shopkeeper_s_Key.png"
+    },
+    {
+      "x": 2138,
+      "y": 847,
+      "difficulty": 5,
+      "image": "images/loc-4-City_Crest.png"
+    },
+    {
+      "x": 4303,
+      "y": 1725,
+      "difficulty": 5,
+      "image": "images/loc-5-Kings_Brand_inventory.png"
+    },
+    {
+      "x": 891,
+      "y": 1735,
+      "difficulty": 5,
+      "image": "images/loc-6-Tram_Pass.png"
+    },
+    {
+      "x": 1985,
+      "y": 631,
+      "difficulty": 5,
+      "image": "images/loc-7-Lumafly_Lantern.png"
+    },
+    {
+      "x": 2035,
+      "y": 627,
+      "difficulty": 5,
+      "image": "images/loc-8-Quill__Hollow_Knight_.png"
+    },
+    {
+      "x": 3571,
+      "y": 1492,
+      "difficulty": "7",
+      "image": "images/loc-9-144px_Collectors_map_LB.png"
+    },
+    {
+      "x": 1660,
+      "y": 933,
+      "difficulty": 5,
+      "image": "images/loc-10-125px_Hunters_journal.png"
+    },
+    {
+      "x": 1675,
+      "y": 938,
+      "difficulty": 5,
+      "image": "images/loc-11-144px_Hunters_Mark.png"
+    },
+    {
+      "x": 3668,
+      "y": 943,
+      "difficulty": "5",
+      "image": "images/loc-12-Delicate_Flower.png"
+    },
+    {
+      "x": 2089,
+      "y": 1969,
+      "difficulty": 5,
+      "image": "images/loc-13-Godtuner.png"
+    }
+  ],
+  "map": {
+    "useCustomMap": false,
+    "defaultMap": "hallownest"
+  }
+}
