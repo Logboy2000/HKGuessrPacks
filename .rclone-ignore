@@ -1,0 +1,4 @@
+.git/**
+sync_packs_to_cdn.sh
+LICENSE
+readme.md
