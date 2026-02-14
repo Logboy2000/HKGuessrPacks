@@ -127,6 +127,6 @@
   ],
   "map": {
     "useCustomMap": false,
-    "defaultMap": "hallownest"
+    "defaultMap": "images/game/defaultMaps/hallownest.png"
   }
 }
