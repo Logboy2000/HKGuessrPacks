@@ -2,7 +2,7 @@
   "name": "All Items",
   "gameModeId": "hk_items",
   "author": "Fedora",
-  "thumbnail": thumbnail.png,
+  "thumbnail": "thumbnail.png",
   "locations": [
     {
       "x": 1984,
